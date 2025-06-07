@@ -1,0 +1,20 @@
+# This file should *not* be in your project repository
+# It should be used as a reference for you to see the output
+# of `git log --oneline --graph --all` after each step
+
+*   69502d7 (HEAD -> main) K: Merge branch 'main' of https://github.com/theprimeagen/webflyx
+|\
+| * 0a87d06 (origin/main) J: Update classics.csv
+* | 5379f56 I: fear is the mind-killer
+* | 8cc2ae9 H: the spice must flow
+|/
+* d7de4cb G: add benjamin button to titles
+*   d97e540 F: Merge branch 'add_classics'
+|\
+| * e83a498 D: add classics
+* | 02ea9f2 E: add contents to contents.md
+|/
+* 73f3d32 C: add quotes
+* 46a4c5e B: add titles
+* e50047e A: add contents.md
+
